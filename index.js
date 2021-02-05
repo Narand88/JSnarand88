@@ -55,4 +55,4 @@ if (book+plant+lamp+pillow+bank+vase+picture < 20) {
 } else {
     home_decoration = 'Квартира в стиле классика';
 }  
-alert(home_decoration)
+alert(home_decoration);
